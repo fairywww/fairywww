@@ -1,3 +1,4 @@
 # Fangzhou Wang
-Master student, Xi'an Jiaotong University
+Engineer at China Mobile
+M.S., Xi'an Jiaotong University
 Email: fzwang@stu.xjtu.edu.cn
